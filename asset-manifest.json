@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dates-Reminder/static/css/main.dbc5bf8c.css",
+    "main.js": "/Dates-Reminder/static/js/main.f9ad0277.js",
+    "index.html": "/Dates-Reminder/index.html",
+    "main.dbc5bf8c.css.map": "/Dates-Reminder/static/css/main.dbc5bf8c.css.map",
+    "main.f9ad0277.js.map": "/Dates-Reminder/static/js/main.f9ad0277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc5bf8c.css",
+    "static/js/main.f9ad0277.js"
+  ]
+}
