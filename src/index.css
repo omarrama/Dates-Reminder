@@ -1,0 +1,30 @@
+.body-style {
+  min-height: 100vh;
+  background-color: #f9f9f9;
+  font-family: "Almarai", sans-serif;
+  font-size: 20px;
+}
+
+.dates-counter {
+  color: #555666;
+  font-weight: 600;
+}
+
+.rectangle {
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+
+.avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.btn-style {
+  width: 200px;
+  border-radius: 8px;
+  color: white;
+  background-color: #0d1214;
+}
