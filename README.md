@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd dates-reminder
+   cd Dates-Reminder
    ```
 
 3. Install the required dependencies:
